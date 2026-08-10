@@ -35,15 +35,15 @@
 
 I'm an **Aspiring AI & Full-Stack Software Engineer** currently pursuing my B.Tech in Computer Software Engineering at **JK Lakshmipat University**. I enjoy working at the intersection of **Artificial Intelligence**, **Python programming**, and **full-stack web development** — turning ideas into practical, user-centric applications.
 
-- 🔭 I build with **Next.js, TypeScript, Firebase, and Framer**, focused on clean, scalable, production-style web applications.
-- 🧠 I'm strengthening my foundations in **AI concepts, data handling, and data analytics** through hands-on projects and continuous experimentation.
-- ⚙️ I've explored **backend development, blockchain fundamentals, and hardware-adjacent engineering** (motor design & control systems).
-- 🚀 I actively participate in **hackathons and industry job simulations** to apply theory to real-world engineering scenarios.
-- 📈 Constantly experimenting with new tools and technologies to sharpen my problem-solving and system-building skills.
+-  I build with **Next.js, TypeScript, Firebase, and Framer**, focused on clean, scalable, production-style web applications.
+-  I'm strengthening my foundations in **AI concepts, data handling, and data analytics** through hands-on projects and continuous experimentation.
+- I've explored **backend development, blockchain fundamentals, and hardware-adjacent engineering** (motor design & control systems).
+-  I actively participate in **hackathons and industry job simulations** to apply theory to real-world engineering scenarios.
+-  Constantly experimenting with new tools and technologies to sharpen my problem-solving and system-building skills.
 
 <div align="center">
 
-**🎯 Open To:** Software Engineering Internships &nbsp;•&nbsp; AI/ML Learning Opportunities &nbsp;•&nbsp; Full Stack Development Roles &nbsp;•&nbsp; Hackathons &nbsp;•&nbsp; Open Source Collaboration
+** Open To:** Software Engineering Internships &nbsp;•&nbsp; AI/ML Learning Opportunities &nbsp;•&nbsp; Full Stack Development Roles &nbsp;•&nbsp; Hackathons &nbsp;•&nbsp; Open Source Collaboration
 
 </div>
 
@@ -266,12 +266,12 @@ Engineered user-centric web solutions using modern backend technologies and data
 
 | Recognition | Details |
 |:--|:--|
-| 🎓 **Gemini Certified University Student** | Certified through Google's Gemini university program |
-| 🏆 **HACKJKLU v5.0** | Participant — university-level hackathon |
-| 💡 **Code Clash & AWS ImpactX Challenge** | Participant — competitive coding & cloud-focused challenge |
-| 🏢 **Walmart USA — Advanced Software Engineering** | Completed job simulation via Forage |
-| 🏢 **JPMorgan Chase — Software Engineering** | Completed job simulation via Forage |
-| 🏢 **Deloitte Australia — Data Analytics** | Completed job simulation in data analysis & forensic technology |
+|  **Gemini Certified University Student** | Certified through Google's Gemini university program |
+|  **HACKJKLU v5.0** | Participant — university-level hackathon |
+|  **Code Clash & AWS ImpactX Challenge** | Participant — competitive coding & cloud-focused challenge |
+|  **Walmart USA — Advanced Software Engineering** | Completed job simulation via Forage |
+|  **JPMorgan Chase — Software Engineering** | Completed job simulation via Forage |
+|  **Deloitte Australia — Data Analytics** | Completed job simulation in data analysis & forensic technology |
 
 </div>
 
