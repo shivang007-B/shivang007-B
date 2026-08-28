@@ -37,15 +37,15 @@
 
 I'm an **Aspiring AI & Full-Stack Software Engineer** currently pursuing my B.Tech in Computer Software Engineering at **JK Lakshmipat University**. I enjoy working at the intersection of **Artificial Intelligence**, **Python programming**, and **full-stack web development** — turning ideas into practical, user-centric applications.
 
-- 🔭 I build with **Next.js, TypeScript, Firebase, and Framer**, focused on clean, scalable, production-style web applications.
-- 🧠 I'm strengthening my foundations in **AI concepts, data handling, and data analytics** through hands-on projects and continuous experimentation.
-- ⚙️ I've explored **backend development, blockchain fundamentals, and hardware-adjacent engineering** (motor design & control systems).
-- 🚀 I actively participate in **hackathons and industry job simulations** to apply theory to real-world engineering scenarios.
-- 📈 Constantly experimenting with new tools and technologies to sharpen my problem-solving and system-building skills.
+- ✦ I build with **Next.js, TypeScript, Firebase, and Framer**, focused on clean, scalable, production-style web applications.
+- ✦ I'm strengthening my foundations in **AI concepts, data handling, and data analytics** through hands-on projects and continuous experimentation.
+- ✦ I've explored **backend development, blockchain fundamentals, and hardware-adjacent engineering** (motor design & control systems).
+- ✦ I actively participate in **hackathons and industry job simulations** to apply theory to real-world engineering scenarios.
+- ✦ Constantly experimenting with new tools and technologies to sharpen my problem-solving and system-building skills.
 
 <div align="center">
 
-**🎯 Open To:** Software Engineering Internships &nbsp;•&nbsp; AI/ML Learning Opportunities &nbsp;•&nbsp; Full Stack Development Roles &nbsp;•&nbsp; Hackathons &nbsp;•&nbsp; Open Source Collaboration
+**Open To:** Software Engineering Internships &nbsp;•&nbsp; AI/ML Learning Opportunities &nbsp;•&nbsp; Full Stack Development Roles &nbsp;•&nbsp; Hackathons &nbsp;•&nbsp; Open Source Collaboration
 
 </div>
 
@@ -81,11 +81,11 @@ I'm an **Aspiring AI & Full-Stack Software Engineer** currently pursuing my B.Te
 
 | Domain | Proficiency | Details |
 |:--|:--:|:--|
-| **AI Concepts & Fundamentals** | ⭐⭐⭐⭐ | Core ML/AI principles, applied problem-solving through Gemini certification |
-| **Data Handling & Analytics** | ⭐⭐⭐⭐ | Data classification, dashboarding (Tableau), business-driven data analysis |
-| **AI-Assisted System Design** | ⭐⭐⭐ | Exploring AI-powered control systems in hardware/software prototypes |
-| **Python for AI/Software** | ⭐⭐⭐⭐ | Applied Python across AI research and software experimentation |
-| **Backend Development** | ⭐⭐⭐ | Data handling and backend logic for user-centric web applications |
+| **AI Concepts & Fundamentals** | ★★★★☆ | Core ML/AI principles, applied problem-solving through Gemini certification |
+| **Data Handling & Analytics** | ★★★★☆ | Data classification, dashboarding (Tableau), business-driven data analysis |
+| **AI-Assisted System Design** | ★★★☆☆ | Exploring AI-powered control systems in hardware/software prototypes |
+| **Python for AI/Software** | ★★★★☆ | Applied Python across AI research and software experimentation |
+| **Backend Development** | ★★★☆☆ | Data handling and backend logic for user-centric web applications |
 
 </div>
 
@@ -94,7 +94,7 @@ I'm an **Aspiring AI & Full-Stack Software Engineer** currently pursuing my B.Te
 ## <img src="https://img.shields.io/badge/-04-8B5CF6?style=flat-square" height="22"/> Featured Projects
 
 <details open>
-<summary><b>🟣 Veritone AI — Real-Time Voice Fraud Detection</b></summary>
+<summary><b>◆ Veritone AI — Real-Time Voice Fraud Detection</b></summary>
 <br/>
 
 A project focused on protecting the integrity of human conversation by detecting fraudulent activity in real-time voice interactions.
@@ -113,7 +113,7 @@ Explored how AI-driven signal analysis can be applied to real-time voice streams
 </details>
 
 <details>
-<summary><b>🟣 CAR-Racing007 — Browser-Based Racing Game</b></summary>
+<summary><b>◆ CAR-Racing007 — Browser-Based Racing Game</b></summary>
 <br/>
 
 An adrenaline-packed racing game where players maneuver their car to avoid obstacles and earn points.
@@ -132,7 +132,7 @@ Built entirely with vanilla HTML, CSS, and JavaScript, this project delivers a t
 </details>
 
 <details>
-<summary><b>🟣 forage-midas — JPMorgan Chase Advanced Software Engineering</b></summary>
+<summary><b>◆ forage-midas — JPMorgan Chase Advanced Software Engineering</b></summary>
 <br/>
 
 Project repository built as part of the JPMorgan Chase Advanced Software Engineering Forage program.
@@ -151,7 +151,7 @@ Completed as part of a forked job-simulation program, this project applies advan
 </details>
 
 <details>
-<summary><b>🟣 CCD-cafe — Café Web Experience</b></summary>
+<summary><b>◆ CCD-cafe — Café Web Experience</b></summary>
 <br/>
 
 A web application design project for a café/coffee brand experience.
@@ -170,7 +170,7 @@ A front-end focused build exploring TypeScript in a real-world brand/product web
 </details>
 
 <details>
-<summary><b>🟣 TRAVEL-WEBSITE — Travel Booking Landing Experience</b></summary>
+<summary><b>◆ TRAVEL-WEBSITE — Travel Booking Landing Experience</b></summary>
 <br/>
 
 A travel-themed website showcasing destinations and booking-style UI flows.
@@ -189,7 +189,7 @@ A design-focused build centered on clean UI, usability, and structured content p
 </details>
 
 <details>
-<summary><b>🟣 Synaptex — Air Motor Prototype Design & Ideation</b></summary>
+<summary><b>◆ Synaptex — Air Motor Prototype Design & Ideation</b></summary>
 <br/>
 
 A next-generation electric motor concept designed without rare-earth magnets.
@@ -268,13 +268,13 @@ Engineered user-centric web solutions using modern backend technologies and data
 
 | Recognition | Details |
 |:--|:--|
-| 🎓 **Gemini Certified University Student** | Certified through Google's Gemini university program |
-| 🏢 **Youth Eco Summit (MeitY & UNICEF)** | Completed a 120-hour internship for "Youth x AI: Green Leaders of Tomorrow" (<a href="assets/41 (2).png">Certificate</a>) |
-| 🏆 **HACKJKLU v5.0** | Participant — university-level hackathon |
-| 💡 **Code Clash & AWS ImpactX Challenge** | Participant — competitive coding & cloud-focused challenge |
-| 🏢 **Walmart USA — Advanced Software Engineering** | Completed job simulation via Forage |
-| 🏢 **JPMorgan Chase — Software Engineering** | Completed job simulation via Forage |
-| 🏢 **Deloitte Australia — Data Analytics** | Completed job simulation in data analysis & forensic technology |
+| **Gemini Certified University Student** | Certified through Google's Gemini university program |
+| **Youth Eco Summit (MeitY & UNICEF)** | Completed a 120-hour internship for "Youth x AI: Green Leaders of Tomorrow" (<a href="assets/41 (2).png">Certificate</a>) |
+| **HACKJKLU v5.0** | Participant — university-level hackathon |
+| **Code Clash & AWS ImpactX Challenge** | Participant — competitive coding & cloud-focused challenge |
+| **Walmart USA — Advanced Software Engineering** | Completed job simulation via Forage |
+| **JPMorgan Chase — Software Engineering** | Completed job simulation via Forage |
+| **Deloitte Australia — Data Analytics** | Completed job simulation in data analysis & forensic technology |
 
 <br/>
 
@@ -320,12 +320,12 @@ Engineered user-centric web solutions using modern backend technologies and data
 
 <br/>
 
-### 🏆 GitHub Trophies
+### GitHub Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=shivang007-B&theme=discord&no-frame=true&column=7&margin-w=10&margin-h=10&title=Commits,Stars,PullRequest,Issues,Repositories,Followers,MultiLanguage"/>
 
 <br/><br/>
 
-### 🐍 Contribution Snake
+### Contribution Snake
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shivang007-B/shivang007-B/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shivang007-B/shivang007-B/output/github-snake.svg">
