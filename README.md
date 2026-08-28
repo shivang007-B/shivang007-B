@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0524,50:2E1065,100:4C1D95&height=280&section=header&text=SHIVANG%20SINGHAL&fontSize=65&fontColor=E9D5FF&animation=fadeIn&fontAlignY=38&desc=Aspiring%20AI%20%26%20Full-Stack%20Software%20Engineer&descAlignY=58&descSize=20" width="100%"/>
+<img src="assets/banner.svg" width="100%"/>
+
+<br/><br/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+AI-Powered+Products;Full+Stack+Engineer+%7C+Next.js+%2B+TypeScript;Exploring+AI%2C+Blockchain+%26+Web+Systems;Turning+Ideas+Into+Practical+Applications" alt="Typing SVG" />
@@ -8,22 +10,22 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/B.Tech-Computer%20Software%20Engineering-6D28D9?style=flat-square&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/JK%20Lakshmipat%20University-2025--2029-7C3AED?style=flat-square&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/Location-Jaipur%2C%20Rajasthan-8B5CF6?style=flat-square&labelColor=1a1a2e&logo=googlemaps&logoColor=white"/>
+<img src="https://img.shields.io/badge/B.Tech-Computer%20Software%20Engineering-6D28D9?style=flat-square&labelColor=15102a&logo=education"/>
+<img src="https://img.shields.io/badge/JK%20Lakshmipat%20University-2025--2029-7C3AED?style=flat-square&labelColor=15102a"/>
+<img src="https://img.shields.io/badge/Location-Jaipur%2C%20Rajasthan-8B5CF6?style=flat-square&labelColor=15102a&logo=googlemaps&logoColor=white"/>
 
 <br/><br/>
 
-<a href="https://voidrax.in"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0F0524"/></a>
-<a href="https://linkedin.com/in/shivangsinghal007b"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F0524"/></a>
-<a href="mailto:shivang369ksd@gmail.com"><img src="https://img.shields.io/badge/Email-5B21B6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F0524"/></a>
-<a href="https://github.com/shivang007-B"><img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white&labelColor=0F0524"/></a>
+<a href="https://voidrax.in"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=15102a"/></a>
+<a href="https://linkedin.com/in/shivangsinghal007b"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=15102a"/></a>
+<a href="mailto:shivang369ksd@gmail.com"><img src="https://img.shields.io/badge/Email-5B21B6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=15102a"/></a>
+<a href="https://github.com/shivang007-B"><img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white&labelColor=15102a"/></a>
 
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=shivang007-B&style=flat-square&color=8b5cf6&label=Profile+Views"/>
-<img src="https://img.shields.io/github/followers/shivang007-B?style=flat-square&color=7c3aed&labelColor=1a1a2e&label=Followers"/>
-<img src="https://img.shields.io/github/stars/shivang007-B?style=flat-square&color=a78bfa&labelColor=1a1a2e&label=Total+Stars"/>
+<img src="https://img.shields.io/github/followers/shivang007-B?style=flat-square&color=7c3aed&labelColor=15102a&label=Followers"/>
+<img src="https://img.shields.io/github/stars/shivang007-B?style=flat-square&color=a78bfa&labelColor=15102a&label=Total+Stars"/>
 
 </div>
 
@@ -59,7 +61,7 @@ I'm an **Aspiring AI & Full-Stack Software Engineer** currently pursuing my B.Te
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,html,css,tailwind&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind&theme=dark"/>
 
 **Backend, Platforms & Data**
 
@@ -260,7 +262,7 @@ Engineered user-centric web solutions using modern backend technologies and data
 
 ---
 
-## <img src="https://img.shields.io/badge/-06-8B5CF6?style=flat-square" height="22"/> Achievements
+## <img src="https://img.shields.io/badge/-06-8B5CF6?style=flat-square" height="22"/> Achievements & Certifications
 
 <div align="center">
 
@@ -273,31 +275,22 @@ Engineered user-centric web solutions using modern backend technologies and data
 | 🏢 **JPMorgan Chase — Software Engineering** | Completed job simulation via Forage |
 | 🏢 **Deloitte Australia — Data Analytics** | Completed job simulation in data analysis & forensic technology |
 
+<br/>
+
+**Verified Credentials**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Gemini%20Certified%20University%20Student-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Advanced%20Software%20Engineering-0071CE?style=for-the-badge&logo=walmart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Software%20Engineering-000000?style=for-the-badge&logo=jpmorganchase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data%20Analytics-86BC25?style=for-the-badge&logo=deloitte&logoColor=white"/>
+</p>
+
 </div>
 
 ---
 
-## <img src="https://img.shields.io/badge/-07-8B5CF6?style=flat-square" height="22"/> Certifications
-
-**Google**
-
-<img src="https://img.shields.io/badge/Gemini%20Certified%20University%20Student-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-
-**Walmart**
-
-<img src="https://img.shields.io/badge/Advanced%20Software%20Engineering-0071CE?style=for-the-badge&logo=walmart&logoColor=white"/>
-
-**JPMorgan Chase**
-
-<img src="https://img.shields.io/badge/Software%20Engineering-000000?style=for-the-badge&logo=jpmorganchase&logoColor=white"/>
-
-**Deloitte**
-
-<img src="https://img.shields.io/badge/Data%20Analytics-86BC25?style=for-the-badge&logo=deloitte&logoColor=white"/>
-
----
-
-## <img src="https://img.shields.io/badge/-08-8B5CF6?style=flat-square" height="22"/> Coding Profiles
+## <img src="https://img.shields.io/badge/-07-8B5CF6?style=flat-square" height="22"/> Coding Profiles
 
 <div align="center">
 
@@ -310,45 +303,27 @@ Engineered user-centric web solutions using modern backend technologies and data
 
 ---
 
-## <img src="https://img.shields.io/badge/-09-8B5CF6?style=flat-square" height="22"/> GitHub Analytics
+## <img src="https://img.shields.io/badge/-08-8B5CF6?style=flat-square" height="22"/> GitHub Stats & Contributions
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=shivang007-B&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F0524&title_color=A78BFA&icon_color=8B5CF6&text_color=E9D5FF"/>
-<img height="165" src="https://streak-stats.demolab.com?user=shivang007-B&theme=tokyonight&hide_border=true&background=0F0524&ring=8B5CF6&fire=A78BFA&currStreakLabel=E9D5FF"/>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.com/api?username=shivang007-B&show_icons=true&bg_color=0c031a&title_color=ffffff&text_color=94a3b8&icon_color=a78bfa&hide_border=true" />
+  <img height="165" src="https://streak-stats.demolab.com?user=shivang007-B&background=0c031a&ring=a78bfa&fire=8b5cf6&currStreakLabel=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=94a3b8&dates=94a3b8&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.com/api/top-langs/?username=shivang007-B&layout=compact&bg_color=0c031a&title_color=ffffff&text_color=94a3b8&icon_color=a78bfa&hide_border=true" />
+</p>
 
 <br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivang007-B&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F0524&title_color=A78BFA&text_color=E9D5FF"/>
-
-</div>
-
----
-
-## <img src="https://img.shields.io/badge/-10-8B5CF6?style=flat-square" height="22"/> GitHub Trophies
-
-<div align="center">
-
+### 🏆 GitHub Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=shivang007-B&theme=discord&no-frame=true&column=7&margin-w=10&margin-h=10&title=Commits,Stars,PullRequest,Issues,Repositories,Followers,MultiLanguage"/>
 
-</div>
+<br/><br/>
 
----
-
-## <img src="https://img.shields.io/badge/-11-8B5CF6?style=flat-square" height="22"/> Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivang007-B&theme=tokyo-night&bg_color=0F0524&color=A78BFA&line=8B5CF6&point=E9D5FF&hide_border=true"/>
-
-</div>
-
----
-
-## <img src="https://img.shields.io/badge/-12-8B5CF6?style=flat-square" height="22"/> Contribution Snake
-
-<div align="center">
-
+### 🐍 Contribution Snake
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shivang007-B/shivang007-B/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shivang007-B/shivang007-B/output/github-snake.svg">
@@ -357,9 +332,7 @@ Engineered user-centric web solutions using modern backend technologies and data
 
 </div>
 
----
-
-## <img src="https://img.shields.io/badge/-13-8B5CF6?style=flat-square" height="22"/> Current Focus
+## <img src="https://img.shields.io/badge/-09-8B5CF6?style=flat-square" height="22"/> Current Focus
 
 ```yaml
 current_focus:
@@ -386,14 +359,14 @@ current_focus:
 
 ---
 
-## <img src="https://img.shields.io/badge/-14-8B5CF6?style=flat-square" height="22"/> Connect With Me
+## <img src="https://img.shields.io/badge/-10-8B5CF6?style=flat-square" height="22"/> Connect With Me
 
 <div align="center">
 
-<a href="mailto:shivang369ksd@gmail.com"><img src="https://img.shields.io/badge/Gmail-5B21B6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F0524"/></a>
-<a href="https://linkedin.com/in/shivangsinghal007b"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F0524"/></a>
-<a href="https://github.com/shivang007-B"><img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white&labelColor=0F0524"/></a>
-<a href="https://voidrax.in"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0F0524"/></a>
+<a href="mailto:shivang369ksd@gmail.com"><img src="https://img.shields.io/badge/Email-5B21B6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=15102a"/></a>
+<a href="https://linkedin.com/in/shivangsinghal007b"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=15102a"/></a>
+<a href="https://github.com/shivang007-B"><img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white&labelColor=15102a"/></a>
+<a href="https://voidrax.in"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=15102a"/></a>
 
 </div>
 
@@ -402,7 +375,5 @@ current_focus:
 <div align="center">
 
 *"Turning ideas into practical applications — one line of code at a time."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:2E1065,100:0F0524&height=150&section=footer" width="100%"/>
 
 </div>
