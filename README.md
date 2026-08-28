@@ -269,6 +269,7 @@ Engineered user-centric web solutions using modern backend technologies and data
 | Recognition | Details |
 |:--|:--|
 | 🎓 **Gemini Certified University Student** | Certified through Google's Gemini university program |
+| 🏢 **Youth Eco Summit (MeitY & UNICEF)** | Completed a 120-hour internship for "Youth x AI: Green Leaders of Tomorrow" (<a href="assets/41 (2).png">Certificate</a>) |
 | 🏆 **HACKJKLU v5.0** | Participant — university-level hackathon |
 | 💡 **Code Clash & AWS ImpactX Challenge** | Participant — competitive coding & cloud-focused challenge |
 | 🏢 **Walmart USA — Advanced Software Engineering** | Completed job simulation via Forage |
@@ -281,6 +282,7 @@ Engineered user-centric web solutions using modern backend technologies and data
 
 <p align="center">
   <img src="https://img.shields.io/badge/Gemini%20Certified%20University%20Student-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <a href="assets/41 (2).png"><img src="https://img.shields.io/badge/Youth%20Eco%20Summit-Internship%20Completion-1CABE2?style=for-the-badge&logo=unicef&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Advanced%20Software%20Engineering-0071CE?style=for-the-badge&logo=walmart&logoColor=white"/>
   <img src="https://img.shields.io/badge/Software%20Engineering-000000?style=for-the-badge&logo=jpmorganchase&logoColor=white"/>
   <img src="https://img.shields.io/badge/Data%20Analytics-86BC25?style=for-the-badge&logo=deloitte&logoColor=white"/>
