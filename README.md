@@ -318,11 +318,6 @@ Engineered user-centric web solutions using modern backend technologies and data
   <img height="165" src="https://github-readme-stats.com/api/top-langs/?username=shivang007-B&layout=compact&bg_color=0c031a&title_color=ffffff&text_color=94a3b8&icon_color=a78bfa&hide_border=true" />
 </p>
 
-<br/>
-
-### GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=shivang007-B&theme=discord&no-frame=true&column=7&margin-w=10&margin-h=10&title=Commits,Stars,PullRequest,Issues,Repositories,Followers,MultiLanguage"/>
-
 <br/><br/>
 
 ### Contribution Snake
